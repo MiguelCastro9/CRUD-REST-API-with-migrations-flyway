@@ -1,6 +1,6 @@
 # Overview
 
-A CRUD system with Flyway migrations and using SpringBoot, REST API architecture and the main HTTP verbs (GET, POST, PUT and DELETE)
+A CRUD system with Flyway migrations using SpringBoot, REST API architecture and the main HTTP verbs (GET, POST, PUT and DELETE)
 
 ### flyway_schema_history
 ![image](https://user-images.githubusercontent.com/56695817/168970657-49d66fdd-a31d-49fe-b36a-d5b13d75373c.png)
